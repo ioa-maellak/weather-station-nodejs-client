@@ -34,3 +34,10 @@ sudo python airpi.py
 #Install nodejs
 
 sudo apt-get install nodejs npm
+
+# Download the dependencies
+npm install
+
+# Run the program
+nodejs index.js ~/pi/airpi/log/airpioutput.json
+
