@@ -1,0 +1,20 @@
+{
+  "author": "Ioannina MA ELLAK <ioa.ma.ellak@gmail.com>",
+  "name": "weather-station-nodejs-client",
+  "description": "This program runs in combination with AirPi software. It purpose is to get data from a json file and sent them to a central server.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ioa-maellak/weather-station-nodejs-client",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ioa-maellak/weather-station-nodejs-client.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "tail": "~0.4.0"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
