@@ -39,5 +39,5 @@ sudo apt-get install nodejs npm
 npm install
 
 # Run the program
-nodejs index.js ~/pi/airpi/log/airpioutput.json
+nodejs index.js ~/pi/airpi/log/airpioutput.json ras_id ras_pass
 
